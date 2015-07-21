@@ -1,0 +1,2 @@
+# comments2message
+wordpress插件，不需要修改模板即可简单的将评论调整为留言
